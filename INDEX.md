@@ -33,6 +33,27 @@
 - [Навыки лидерства и ведения переговоров](./books/fundamental-software-architecture/chapters/ГЛАВА%2023%20Навыки%20лидерства%20и%20ведения%20переговоров.md)
 - [Карьерный путь](./books/fundamental-software-architecture/chapters/ГЛАВА%2024%20Карьерный%20путь.md)
 
+### [Изучаем DDD – предметно-ориентированное проектирование](./books/learning-domain-driver-design/README.md)
+Комплексное руководство по предметно-ориентированному проектированию (DDD).
+
+**Быстрая навигация:**
+- [Анализ предметной области](./books/learning-domain-driver-design/chapters/ГЛАВА%201%20Анализ%20предметной%20области.md)
+- [Экспертные знания о предметной области](./books/learning-domain-driver-design/chapters/ГЛАВА%202.%20Экспертные%20знания%20о%20предметной%20области.md)
+- [Как осмыслить сложность предметной области](./books/learning-domain-driver-design/chapters/ГЛАВА%203%20Как%20осмыслить%20сложность%20предметной%20области.md)
+- [Интеграция ограниченных контекстов](./books/learning-domain-driver-design/chapters/ГЛАВА%204%20Интеграция%20ограниченных%20контекстов.md)
+- [Реализация простой бизнес-логики](./books/learning-domain-driver-design/chapters/ГЛАВА%205%20Реализация%20простой%20бизнес-логики.md)
+- [Проработка сложной бизнес-логики](./books/learning-domain-driver-design/chapters/ГЛАВА%206%20Проработка%20сложной%20бизнес-логики.md)
+- [Моделирование фактора времени](./books/learning-domain-driver-design/chapters/ГЛАВА%207%20%20Моделирование%20%20%20фактора%20времени.md)
+- [Архитектурные паттерны](./books/learning-domain-driver-design/chapters/ГЛАВА%208%20%20Архитектурные%20паттерны.md)
+- [Паттерны взаимодействия](./books/learning-domain-driver-design/chapters/ГЛАВА%209%20Паттерны%20взаимодействия.md)
+- [Эвристика проектирования](./books/learning-domain-driver-design/chapters/ГЛАВА%2010%20Эвристика%20проектирования.md)
+- [Эволюция проектных решений](./books/learning-domain-driver-design/chapters/ГЛАВА%2011%20Эволюция%20проектных%20решений.md)
+- [EventStorming](./books/learning-domain-driver-design/chapters/ГЛАВА%2012%20EventStorming.md)
+- [Предметно-ориентированное проектирование на практике](./books/learning-domain-driver-design/chapters/ГЛАВА%2013%20Предметно-ориентированное%20проектирование%20на%20практике.md)
+- [Микросервисы](./books/learning-domain-driver-design/chapters/ГЛАВА%2014%20Микросервисы.md)
+- [Событийно-ориентированная архитектура](./books/learning-domain-driver-design/chapters/ГЛАВА%2015%20Событийно-ориентированная%20архитектура.md)
+- [Сеть данных (Data Mesh)](./books/learning-domain-driver-design/chapters/ГЛАВА%2016%20Сеть%20данных%20(Data%20Mesh).md)
+
 ## 🎯 Дополнительные темы
 
 ### [Архитектурные антипаттерны](./topics/README.md)
@@ -52,9 +73,13 @@
 
 ## 📊 Сравнительные материалы
 
+### Фундаментальный подход к программной архитектуре
 - [Сравнение 3х стилей монолита](./books/fundamental-software-architecture/comparisons/Сравнение%203х%20стилей%20монолита.md)
 - [Сравнение всех стилей 10-17](./books/fundamental-software-architecture/comparisons/СРАВНЕНИЕ%20ВСЕХ%20СТИЛЕЙ%2010%20-17.md)
 - [Сравнение распределённых архитектурных стилей](./books/fundamental-software-architecture/comparisons/Сравнение%20распределённых%20архитектурных%20стилей.md)
+
+### Изучаем DDD
+- [ГЛАВА 3.5 ДОП - общее глав 1-3](./books/learning-domain-driver-design/comparisons/ГЛАВА%203.5%20ДОП%20-%20общее%20глав%201-3.md)
 
 ## 🖼️ Ресурсы
 
