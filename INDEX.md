@@ -54,6 +54,27 @@
 - [Событийно-ориентированная архитектура](./books/learning-domain-driver-design/chapters/ГЛАВА%2015%20Событийно-ориентированная%20архитектура.md)
 - [Сеть данных (Data Mesh)](./books/learning-domain-driver-design/chapters/ГЛАВА%2016%20Сеть%20данных%20(Data%20Mesh).md)
 
+### [Создание микросервисов](./books/building-microservices/README.md)
+Конспект книги Сэма Ньюмена (2-е издание): от моделирования границ сервисов до эксплуатации и организационных структур.
+
+**Быстрая навигация:**
+- [Что такое микросервисы](./books/building-microservices/chapters/ГЛАВА%201%20Что%20такое%20микросервисы.md)
+- [Как моделировать микросервисы](./books/building-microservices/chapters/ГЛАВА%202%20Как%20моделировать%20микросервисы.md)
+- [Разделение монолита на части](./books/building-microservices/chapters/ГЛАВА%203%20Разделение%20монолита%20на%20части.md)
+- [Стили взаимодействия микросервисов](./books/building-microservices/chapters/ГЛАВА%204%20Стили%20взаимодействия%20микросервисов.md)
+- [Реализация коммуникации микросервисов](./books/building-microservices/chapters/ГЛАВА%205%20Реализация%20коммуникации%20микросервисов.md)
+- [Рабочий поток](./books/building-microservices/chapters/ГЛАВА%206%20Рабочий%20поток.md)
+- [Сборка](./books/building-microservices/chapters/ГЛАВА%207%20Сборка.md)
+- [Развертывание](./books/building-microservices/chapters/ГЛАВА%208%20Развертывание.md)
+- [Тестирование](./books/building-microservices/chapters/ГЛАВА%209%20Тестирование.md)
+- [От мониторинга к наблюдаемости](./books/building-microservices/chapters/ГЛАВА%2010%20От%20мониторинга%20к%20наблюдаемости.md)
+- [Безопасность](./books/building-microservices/chapters/ГЛАВА%2011%20Безопасность.md)
+- [Отказоустойчивость](./books/building-microservices/chapters/ГЛАВА%2012%20Отказоустойчивость.md)
+- [Масштабирование](./books/building-microservices/chapters/ГЛАВА%2013%20Масштабирование.md)
+- [Пользовательские интерфейсы](./books/building-microservices/chapters/ГЛАВА%2014%20Пользовательские%20интерфейсы.md)
+- [Организационные структуры](./books/building-microservices/chapters/ГЛАВА%2015%20Организационные%20структуры.md)
+- [Эволюционный архитектор](./books/building-microservices/chapters/ГЛАВА%2016%20Эволюционный%20архитектор.md)
+
 ## 🎯 Дополнительные темы
 
 ### [Архитектурные антипаттерны](./topics/README.md)
