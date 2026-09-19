@@ -74,6 +74,7 @@
 - [Пользовательские интерфейсы](./books/building-microservices/chapters/ГЛАВА%2014%20Пользовательские%20интерфейсы.md)
 - [Организационные структуры](./books/building-microservices/chapters/ГЛАВА%2015%20Организационные%20структуры.md)
 - [Эволюционный архитектор](./books/building-microservices/chapters/ГЛАВА%2016%20Эволюционный%20архитектор.md)
+- [Послесловие: подведём итог основных тем](./books/building-microservices/chapters/Послесловие.md)
 
 ## 🎯 Дополнительные темы
 
