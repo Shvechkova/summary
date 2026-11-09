@@ -106,7 +106,6 @@
 **Быстрая навигация:**
 - [Предисловие](./books/designing-data-intensive-applications/chapters/Предисловие.md)
 - [Компромиссы в архитектуре систем данных](./books/designing-data-intensive-applications/chapters/ГЛАВА%201%20Компромиссы%20в%20архитектуре%20систем%20данных.md)
-- [Нефункциональные требования](./books/designing-data-intensive-applications/chapters/ГЛАВА%202%20Нефункциональные%20требования.md)
 
 ## 🎯 Дополнительные темы
 
