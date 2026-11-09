@@ -1,5 +1,7 @@
 # 📖 Высоконагруженные приложения (2-е издание)
 
+![Обложка книги](../../assets/designing-data-intensive-applications-cover.jpg)
+
 Конспект книги
 Designing Data-Intensive Applications, 2nd Edition — «Высоконагруженные приложения», 2-е издание
 Мартин Клеппман, Крис Риккомини
